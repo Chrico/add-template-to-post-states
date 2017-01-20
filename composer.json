@@ -1,0 +1,18 @@
+{
+  "name": "chrico/add-template-to-post-states",
+  "description": "This WordPress muPlugin will add the assigend page template to WP_Posts_List_Table 'post_states'",
+  "type": "wordpress-muplugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Christian Brückner",
+      "email": "chris@chrico.info",
+      "homepage": "https://www.chrico.info",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7"
+  }
+}
